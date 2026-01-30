@@ -1,0 +1,11 @@
+{
+  "name": "atajan-portfolio",
+  "version": "1.0.0",
+  "main": "Serve.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node Serve.js"
+  }
+}
